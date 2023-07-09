@@ -1,3 +1,7 @@
+[![Deploy docs](https://github.com/PiPolaris/ignite-design-system/actions/workflows/deploy-docs.yml/badge.svg)](https://github.com/PiPolaris/ignite-design-system/actions/workflows/deploy-docs.yml)
+[![Release](https://github.com/PiPolaris/ignite-design-system/actions/workflows/release.yml/badge.svg)](https://github.com/PiPolaris/ignite-design-system/actions/workflows/release.yml)
+[![GH Pages](https://github.com/PiPolaris/ignite-design-system/actions/workflows/pages/pages-build-deployment/badge.svg)](https://github.com/PiPolaris/ignite-design-system/actions/workflows/pages/pages-build-deployment)
+
 # Ignite Design System
 
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
