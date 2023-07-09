@@ -1,4 +1,4 @@
-import { Box, Checkbox, CheckboxProps, Text } from '@ignite-ui/react'
+import { Box, Checkbox, CheckboxProps, Text } from '@pi-polaris-sandbox/react'
 import type { Meta, StoryObj } from '@storybook/react'
 
 export default {

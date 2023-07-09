@@ -6,7 +6,7 @@ import {
   lineHeights,
   radii,
   space,
-} from '@ignite-ui/tokens'
+} from '@pi-polaris-sandbox/tokens'
 
 import { createStitches, defaultThemeMap } from '@stitches/react'
 

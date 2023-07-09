@@ -1,4 +1,4 @@
-import { Box, Text, TextInput, TextInputProps } from '@ignite-ui/react'
+import { Box, Text, TextInput, TextInputProps } from '@pi-polaris-sandbox/react'
 import type { Meta, StoryObj } from '@storybook/react'
 
 export default {
@@ -18,7 +18,7 @@ export default {
       )
     },
   ],
-} as Meta
+} as Meta<TextInputProps>
 
 export const Primary: StoryObj<TextInputProps> = {
   args: {
@@ -29,6 +29,7 @@ export const Primary: StoryObj<TextInputProps> = {
 export const WithPrefix: StoryObj<TextInputProps> = {
   args: {
     prefix: 'cal.com/',
+    placeholder: 'Your username',
   },
 }
 
