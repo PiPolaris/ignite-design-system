@@ -8,6 +8,11 @@ export default {
     src: 'https://github.com/pipolaris.png',
     alt: 'Ana Gomes',
   },
+  argTypes: {
+    src: {
+      control: { type: 'text' },
+    },
+  },
 } as Meta
 
 export const Primary: StoryObj<AvatarProps> = {}

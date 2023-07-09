@@ -11,6 +11,11 @@ export default {
       </>
     ),
   },
+  argTypes: {
+    children: {
+      control: { type: 'null' },
+    },
+  },
 } as Meta
 
 export const Primary: StoryObj<BoxProps> = {}
